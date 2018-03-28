@@ -1,1 +1,1 @@
-"./MSPIO.obj" "./main.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "./Hardware/CS_Driver.obj" "./Hardware/UART_Driver.obj" "../msp432p401r.cmd" -llibc.a -lmsp432p4xx_driverlib.lib 
+"./MSPIO.obj" "./main.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "./Hardware/ADC_Driver.obj" "./Hardware/CS_Driver.obj" "./Hardware/TimerA_Driver.obj" "./Hardware/UART_Driver.obj" "../msp432p401r.cmd" -llibc.a -lmsp432p4xx_driverlib.lib 
